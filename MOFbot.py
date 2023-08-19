@@ -1,5 +1,5 @@
 from PyPaperBot.pbot import pbot
-from os import system ,path
+from os import system , path
 from chemdataextractor import Document
 from cd_lib.chose_para import cde_paras
 from csv import reader
@@ -14,6 +14,7 @@ except:
     system("Cde data download")
 
 def syndwn(query:str,results,pages:str,diri,yer,numlmt,tp,restrict,url):
+    print("Execution Started!")
     pbot(query,pages,scholar_results=results,restrict=restrict,dwn_dir=diri,min_date=yer,num_limit=numlmt,num_limit_type=tp,SciHub_URL=url)
     with open(path.join(diri,"result.csv"),'r',encoding='utf-8')as f:
         cfile=reader(f)
@@ -32,7 +33,7 @@ def syndwn(query:str,results,pages:str,diri,yer,numlmt,tp,restrict,url):
                     print(f'We find {len(sny_para_list)} synthesis paragraph(s), which is (are):')
                     while pot_sny_para_no < len(sny_para_list):
                         print(f'{pot_sny_para_no+1})')
-                        print(f'{sny_para_list[pot_sny_para_no]})')
+                        print(f'{sny_para_list[pot_sny_para_no]})'.encode("utf-8"))
                         with open(path.join(diri,'synthesis.txt'), 'a',encoding='utf-8') as f:
                             f.write(fname+"\n"+str(count)+") "+sny_para_list[pot_sny_para_no]+"\n\n")
                         with open(path.join(diri,fname + '.txt'), 'a',encoding='utf-8') as f:
