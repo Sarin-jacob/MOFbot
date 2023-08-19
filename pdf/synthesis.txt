@@ -1,0 +1,79 @@
+Three novel bismuth-based coordination polymers_ Synthesis_ structure and luminescent properties
+1) A mixture of Bi(NO3)3 (cid:2) 5H2O (0.242 g, 0.5 mmol) or Bi2O3
+(0.232 g, 0.5 mmol) and pyridine-2, 5-dicarboxylic acid (H2pydc)
+(0.250 g, 1.5 mmol) in H2O (25 ml) was sealed in a Teﬂon-lined
+autoclave and heated to a temperature of 180 1C for 3 day, and
+then cooled slowly at 0.1 1C/min to room temperature. Colorless,
+needle-like crystals were obtained in 90% yield (based on bismuth)
+admixed with an unidentiﬁed white powder phase, which was
+almost completely separated from the needle shaped crystals by
+sieving. The products were washed with DMF to dissolve and
+remove any unreacted ligand. The ﬁnal product was isolated by
+vacuum ﬁltration. The isolated needle crystals were used for
+structure and physical characterizations.
+
+Three novel bismuth-based coordination polymers_ Synthesis_ structure and luminescent properties
+2) A mixture of Bi(NO3)3 (cid:2) 5H2O (0.242 g, 0.5 mmol) and an excess
+of 1R3S-camphoric acid (1R3S-cam) (0.300 g, 1.5 mmol) and
+NaOH (0.024 g, 0.6 mmol) in EtOH (25 ml) was sealed in a
+Teﬂon-lined autoclave and heated to a temperature of 100 1C for
+3 day, and then cooled slowly at 0.1 1C/min to room temperature.
+Colorless, needle-shaped crystals and white polycrystalline
+powder were obtained in quantitative yield based on bismuth.
+The products were washed with DMF to dissolve and remove any
+unreacted ligand. The ﬁnal product was isolated by vacuum
+ﬁltration. It is this mixture of powder and needle crystals that
+were used for structure and physical characterizations.
+
+Bismuth _III_-thiophenedicarboxylates as host frameworks for lanthanide ions_ synthesis_ structural characterization_ and photoluminescent behavior
+3) Hpy[Bi(TDC)2(H2O)]·1.5H2O (1)  
+An aliquot of a 0.0267 M solution of bismuth nitrate in glacial acetic acid (1.5 mL, 0.04 mmol), 
+an aliquot of a 0.2 M solution of H2TDC in ethanol (1.5 mL, 0.3 mmol), and pyridine (40 µL, 0.5 
+mmol)    were  loaded  into  a  10  mL  glass  vial  (pHi    ≈  4-5).  An  opaque,  white  suspension  was 
+initially observed upon addition of the reactants. The vial was capped and left on the benchtop at 
+room  temperature.  After  five  to  seven  days,  crystallization  was  observed  (pHf    ≈  5-6).  The 
+products  were  filtered,  washed  in  water  and  ethanol,  and  allowed  to  air  dry.  Large  colorless 
+plates of 1 were collected. Yield: 94% (based on Bi). Elemental Analysis: Calc. (Obs.): C, 30.27 
+(30.26);  H,  2.25  (2.18);  N,  2.08,  (2.13  %).  Raman  1  ῦ  =  1528,  1479,  1400,1315,  1202,  1124, 
+1009, 835, 392 cm-1.
+
+Bismuth _III_-thiophenedicarboxylates as host frameworks for lanthanide ions_ synthesis_ structural characterization_ and photoluminescent behavior
+4) Hpy[Bi1-xLnx(TDC)2(H2O)]·1.5H2O (Bi1-xLnx-1)  
+The  syntheses  follow  that  of  compound  1.  After  2  days,  an  aliquot  of  an  aqueous  0.025M 
+lanthanide nitrate solution (167 µL, 0.00417 mmol) was added to the glass vial which contained 
+a white suspension. After five to seven additional days, the solution was clear and colorless, and 
+colorless crystals had deposited at the bottom of the vial. The products were filtered, washed in 
+water  and  ethanol,  and  allowed  to  air  dry.  Clear,  colorless plates  of  Bi1-xLnx-1  were  observed. 
+Yield:  80-90%  (based  on  Bi).  Elemental  Analysis:  Ln=Nd,  Calc.  (Obs.):  C,  30.39  (30.43);  H, 
+2.25  (2.29);  N,  2.06  (2.15%);  Ln=Sm,  Calc.  (Obs.):  C,  30.44  (30.31);  H,  2.25  (2.23),  N,  2.09, 
+(2.14%); Ln=Eu, Calc. (Obs.): C, 30.29 (30.58); H, 2.24 (2.11); N, 2.08, (2.28%); Ln=Tb, Calc. 
+(Obs.):  C,  30.29  (30.63);  H,  2.24  (1.76);  N,  2.08,  (2.05  %);  Ln=  Dy,  Calc.  (Obs.):  C,  30.32 
+(30.44); H, 2.24 (2.06); N, 2.08, (2.17%); Ln= Yb, Calc. (Obs.): C, 30.31 (30.22); H, 2.24 (2.10); 
+N, 2.08, (2.20%).
+
+Bismuth _III_-thiophenedicarboxylates as host frameworks for lanthanide ions_ synthesis_ structural characterization_ and photoluminescent behavior
+5) [Bi0.99Eu0.01(TDC)2(HTDC)(Hpy)2](Bi0.99Eu0.01-3)  
+The  syntheses  follow  that  of  2  and  3.  Two  days  after  capping  the  glass  vial,  an  aliquot  of  a 
+0.025M europium nitrate solution (167 µL, 0.00417 mmol) was added to the reaction. After two 
+more  days,  the  products  were  filtered,  washed  in  water  and  ethanol,  and  allowed  to  dry  under 
+ambient  conditions.  Single  crystals  of 
+the  europium  compound  Bi0.99Eu0.01-3  and  a 
+nonluminescent, white, microcrystalline minor phase identified as undoped 2 (via PXRD) were 
+present.  Bi0.99Eu0.01-3  could  be  identified  by  visual  inspection  under  a  UV  lamp  and  was 
+manually separated from 2. Yield: 89% (based on Bi). Elemental Analysis: Ln=Eu, Calc. (Obs.): 
+C, 38.00 (37.54); H, 2.14 (2.02); N, 3.17, (3.12). Note that because Bi0.99Eu0.01-3 was manually 
+separated from 2 under a UV lamp, using the luminescence of Eu as a guide, we did not prepare 
+the other Ln doped analogs.
+
+Bismuth _III_-thiophenedicarboxylates as host frameworks for lanthanide ions_ synthesis_ structural characterization_ and photoluminescent behavior
+6) [Eu(TDC)(NO3)(H2O)] (4)  
+An aliquot of a 0.0267 M solution of europium nitrate in glacial acetic acid (1.5 mL, 0.04 mmol), 
+an aliquot of a 0.2 M solution of H2TDC in ethanol (1.5 mL, 0.3 mmol), and pyridine (40 µL, 0.5 
+mmol)  were  loaded  into  a  10  mL  glass  vial.  The  vial  was  capped  and  left  on  the  benchtop  at 
+room temperature. Colorless crystals formed overnight  and deposited  at the bottom of the vial. 
+The products were filtered, washed in water and ethanol, and allowed to air dry. Large colorless 
+plates identified as 4 were collected. Though not readily apparent in the powder pattern, a minor 
+phase  impurity  identified  via  elemental  analysis  precluded  subsequent  characterization  that 
+required bulk purity (Fig. S9). Raman ῦ = 1546, 1476, 1405, 1325, 1217, 1131, 1033, 793, 760, 
+680 cm-1.
+
